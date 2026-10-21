@@ -1,0 +1,431 @@
+{
+ "key": "39a1cd82",
+ "stars": 0,
+ "contributions": 137,
+ "repos": 32,
+ "followers": 1,
+ "languages": [
+  [
+   "HTML",
+   208205
+  ],
+  [
+   "CSS",
+   178817
+  ],
+  [
+   "SCSS",
+   167701
+  ],
+  [
+   "JavaScript",
+   28831
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "webstudio",
+   "url": "https://github.com/psyhoborsik-netizen/webstudio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "psyhoborsik-netizen",
+   "url": "https://github.com/psyhoborsik-netizen/psyhoborsik-netizen",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "FinalProjectMessi",
+   "url": "https://github.com/psyhoborsik-netizen/FinalProjectMessi",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "projectDOM",
+   "url": "https://github.com/psyhoborsik-netizen/projectDOM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "pudge_Project",
+   "url": "https://github.com/psyhoborsik-netizen/pudge_Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Footbal_Project",
+   "url": "https://github.com/psyhoborsik-netizen/Footbal_Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "hw_8",
+   "url": "https://github.com/psyhoborsik-netizen/hw_8",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "hw_7",
+   "url": "https://github.com/psyhoborsik-netizen/hw_7",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "js_6",
+   "url": "https://github.com/psyhoborsik-netizen/js_6",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "game_developer_project",
+   "url": "https://github.com/psyhoborsik-netizen/game_developer_project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "HW_5",
+   "url": "https://github.com/psyhoborsik-netizen/HW_5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "HW_4",
+   "url": "https://github.com/psyhoborsik-netizen/HW_4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "HW_3",
+   "url": "https://github.com/psyhoborsik-netizen/HW_3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "homeJs_2",
+   "url": "https://github.com/psyhoborsik-netizen/homeJs_2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "js_home",
+   "url": "https://github.com/psyhoborsik-netizen/js_home",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "project-iceCream",
+   "url": "https://github.com/psyhoborsik-netizen/project-iceCream",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "we",
+   "url": "https://github.com/psyhoborsik-netizen/we",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "project-artem",
+   "url": "https://github.com/psyhoborsik-netizen/project-artem",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "New-project",
+   "url": "https://github.com/psyhoborsik-netizen/New-project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "WebStudio-SCSS",
+   "url": "https://github.com/psyhoborsik-netizen/WebStudio-SCSS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "HW-16",
+   "url": "https://github.com/psyhoborsik-netizen/HW-16",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Akroshka_project",
+   "url": "https://github.com/psyhoborsik-netizen/Akroshka_project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "HW-15",
+   "url": "https://github.com/psyhoborsik-netizen/HW-15",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "HW-11",
+   "url": "https://github.com/psyhoborsik-netizen/HW-11",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "lesson-15",
+   "url": "https://github.com/psyhoborsik-netizen/lesson-15",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Golden",
+   "url": "https://github.com/psyhoborsik-netizen/Golden",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "HW-8",
+   "url": "https://github.com/psyhoborsik-netizen/HW-8",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "webstudio5",
+   "url": "https://github.com/psyhoborsik-netizen/webstudio5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "HW-7",
+   "url": "https://github.com/psyhoborsik-netizen/HW-7",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "webstudio4",
+   "url": "https://github.com/psyhoborsik-netizen/webstudio4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "webstudio3",
+   "url": "https://github.com/psyhoborsik-netizen/webstudio3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "webstudio2",
+   "url": "https://github.com/psyhoborsik-netizen/webstudio2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "webstudio",
+   "url": "https://github.com/psyhoborsik-netizen/webstudio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

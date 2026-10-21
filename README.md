@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/psyhoborsik-netizen/FinalProjectMessi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-finalprojectmessi-dark.svg"><img src="assets/project-finalprojectmessi-light.svg" width="49%" alt="FinalProjectMessi"></picture></a>&nbsp;<a href="https://github.com/psyhoborsik-netizen/projectDOM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-projectdom-dark.svg"><img src="assets/project-projectdom-light.svg" width="49%" alt="projectDOM"></picture></a>
-
-<a href="https://github.com/psyhoborsik-netizen/pudge_Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pudge-project-dark.svg"><img src="assets/project-pudge-project-light.svg" width="49%" alt="pudge_Project"></picture></a>&nbsp;<a href="https://github.com/psyhoborsik-netizen/Footbal_Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-footbal-project-dark.svg"><img src="assets/project-footbal-project-light.svg" width="49%" alt="Footbal_Project"></picture></a>
+<a href="https://github.com/psyhoborsik-netizen/webstudio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-webstudio-dark.svg"><img src="assets/project-webstudio-light.svg" width="49%" alt="webstudio"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
