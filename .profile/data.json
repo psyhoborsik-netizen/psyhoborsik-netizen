@@ -1,5 +1,5 @@
 {
- "key": "2f46d1f2",
+ "key": "7f82254f",
  "stars": 0,
  "contributions": 138,
  "repos": 32,
@@ -7,19 +7,19 @@
  "languages": [
   [
    "HTML",
-   208205
+   209619
   ],
   [
    "CSS",
-   178817
+   184157
   ],
   [
    "SCSS",
-   167701
+   174268
   ],
   [
    "JavaScript",
-   28831
+   29168
   ]
  ],
  "days": [
@@ -166,7 +166,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "HTML",
+   "language": "SCSS",
    "topics": []
   },
   {
