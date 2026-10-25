@@ -1,25 +1,25 @@
 {
- "key": "6b76db0",
+ "key": "1ab85247",
  "stars": 0,
- "contributions": 139,
+ "contributions": 140,
  "repos": 32,
  "followers": 1,
  "languages": [
   [
    "HTML",
-   209619
+   209069
   ],
   [
    "CSS",
-   184157
+   184477
   ],
   [
    "SCSS",
-   174268
+   174490
   ],
   [
    "JavaScript",
-   29168
+   31150
   ]
  ],
  "days": [
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 2,
     "day": 25,
     "today": true
    },
